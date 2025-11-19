@@ -136,4 +136,5 @@
 ,{ "path": "./mobile/android/DiiaWidget.kt", "content": "\n" }
 ,{ "path": "./mobile/flutter/diia_app.dart", "content": "\n" }
 ,{ "path": "./mobile/ios/DiiaUI.swift", "content": "\n" }
+,{ "path": "./notebooks/experiments.ipynb", "content": "\n" }
 ]}
