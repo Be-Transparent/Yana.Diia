@@ -1,2 +1,0 @@
-# Yana.Diia
-Diia.AIContest
